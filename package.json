@@ -3,13 +3,18 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node scripts/build.js",
+    "dev": "npx @11ty/eleventy-dev-server --dir=public & nodemon -e md --watch src/docs scripts/build.js"
   },
   "author": "",
   "license": "ISC",
+  "type": "module",
   "description": "",
   "devDependencies": {
     "@11ty/eleventy-dev-server": "^2.0.2",
-    "@biomejs/biome": "^1.8.3"
+    "@biomejs/biome": "^1.8.3",
+    "marked": "^14.1.1",
+    "marked-gfm-heading-id": "^4.1.0"
   }
 }

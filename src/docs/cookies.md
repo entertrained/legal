@@ -1,4 +1,6 @@
-Our [Privacy Policy](https://automattic.com/privacy/) explains our principles when it comes to the collection, processing, and storage of your information. This policy specifically explains how we, our partners, and users of our services deploy cookies, as well as the options you have to control them.
+## Cookies Policy
+
+Our [Privacy Policy](/privacy/) explains our principles when it comes to the collection, processing, and storage of your information. This policy specifically explains how we, our partners, and users of our services deploy cookies, as well as the options you have to control them.
 
 ### What are cookies?
 
@@ -12,21 +14,20 @@ We use cookies for a number of different purposes. Some cookies are necessary fo
 
 We set cookies in a number of different locations across our services. These include:
 
-*   On our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, crowdsignal.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, cloudup.com, longreads.com, and happy.tools).
-*   In the administrative dashboards of our websites, such as Calypso and wp-admin.
-*   On sites we host for our users.
-*   On sites that use our plugins (e.g. Jetpack).
+- On our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, crowdsignal.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, cloudup.com, longreads.com, and happy.tools).
+- In the administrative dashboards of our websites, such as Calypso and wp-admin.
+- On sites we host for our users.
+- On sites that use our plugins (e.g. Jetpack).
 
 ### **Types of Cookie**
 
 The table below explains the types of cookies we use on our websites and why we use them.
 
-|Category of cookies|Why we use these cookies|
-|---|---|
-|Required|These cookies are essential for our websites and services to perform basic functions and are necessary for us to operate certain features. These include those required to allow registered users to authenticate and perform account-related functions, store preferences set by users such as account name, language, and location, and ensure our services are operating properly.|
-|Analytics and Performance|These cookies allow us to optimize performance by collecting information on how users interact with our websites, including which pages are visited most, as well as other analytical data. We use these details to improve how our websites function and to understand how users interact with them.|
-|Advertising|These cookies are set by us and our advertising partners to provide you with relevant content and to understand that content’s effectiveness. They may be used to collect information about your online activities over time and across different websites to predict your preferences and to display more relevant advertisements to you. These cookies also allow a profile to be built about you and your interests and enable personalized ads to be shown to you based on your profile.|
-
+| Category of cookies       | Why we use these cookies                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Required                  | These cookies are essential for our websites and services to perform basic functions and are necessary for us to operate certain features. These include those required to allow registered users to authenticate and perform account-related functions, store preferences set by users such as account name, language, and location, and ensure our services are operating properly.                                                                                                        |
+| Analytics and Performance | These cookies allow us to optimize performance by collecting information on how users interact with our websites, including which pages are visited most, as well as other analytical data. We use these details to improve how our websites function and to understand how users interact with them.                                                                                                                                                                                        |
+| Advertising               | These cookies are set by us and our advertising partners to provide you with relevant content and to understand that content’s effectiveness. They may be used to collect information about your online activities over time and across different websites to predict your preferences and to display more relevant advertisements to you. These cookies also allow a profile to be built about you and your interests and enable personalized ads to be shown to you based on your profile. |
 
 ### User Sites
 
@@ -40,36 +41,37 @@ In addition, people and companies that use our services to publish or host their
 
 #### **Required**
 
-|Cookie|Purpose|
-|--- |--- |
-|__ssid|For processing payment and to aid in fraud detection.|
-|__stripe_sid / __stripe_mid|For processing payment and to aid in fraud detection.|
-|_longreads_prod_new|Authentication for Longreads.com Member accounts. Only active when logged in, on *.longreads.com domains.|
-|akm_mobile|Stores whether a user has chosen to view the mobile version of a website.|
-|botdlang|Used to track the language a user has selected to view popular blogs in.|
-|country_code|Used in order to determine whether or not the cookie banner should be shown. Set immediately on page load and retained for 6 hours to remember the visitor's country.|
-|csrftoken|Python/Ajax security cookie used on accounts.longreads.com.|
-|forterToken|For processing payment and to aid in fraud detection.|
-|landingpage_currency|Defines the currency displayed in WordPress.com landing pages.|
-|pd_dashboard|Records last used folder in Polldaddy dashboard so it can be reopened upon user’s next visit.|
-|PD_USER_AUTH|Login cookie used to identify Polldaddy user.|
-|sensitive_pixel_option|Remembers the state of visitor acceptance to the cookie banner. Only set when the visitor clicks Accept.|
-|twostep_auth|Set when the user is logged in using two factor authentication.|
-|wordpress_logged_in*|Checks whether or not the current visitor is a logged in WordPress.com user.|
-|wordpress_test_cookie|Checks if cookies are enabled to provide appropriate user experience.|
-|wp-settings-{user_id}|Persists a user’s wp-admin configuration.|
-|wp_sharing_{id}|Tracks whether or not a user has already performed an action.|
+| Cookie                      | Purpose                                                                                                                                                               |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \_\_ssid                    | For processing payment and to aid in fraud detection.                                                                                                                 |
+| **stripe_sid / **stripe_mid | For processing payment and to aid in fraud detection.                                                                                                                 |
+| \_longreads_prod_new        | Authentication for Longreads.com Member accounts. Only active when logged in, on \*.longreads.com domains.                                                            |
+| akm_mobile                  | Stores whether a user has chosen to view the mobile version of a website.                                                                                             |
+| botdlang                    | Used to track the language a user has selected to view popular blogs in.                                                                                              |
+| country_code                | Used in order to determine whether or not the cookie banner should be shown. Set immediately on page load and retained for 6 hours to remember the visitor's country. |
+| csrftoken                   | Python/Ajax security cookie used on accounts.longreads.com.                                                                                                           |
+| forterToken                 | For processing payment and to aid in fraud detection.                                                                                                                 |
+| landingpage_currency        | Defines the currency displayed in WordPress.com landing pages.                                                                                                        |
+| pd_dashboard                | Records last used folder in Polldaddy dashboard so it can be reopened upon user’s next visit.                                                                         |
+| PD_USER_AUTH                | Login cookie used to identify Polldaddy user.                                                                                                                         |
+| sensitive_pixel_option      | Remembers the state of visitor acceptance to the cookie banner. Only set when the visitor clicks Accept.                                                              |
+| twostep_auth                | Set when the user is logged in using two factor authentication.                                                                                                       |
+| wordpress_logged_in\*       | Checks whether or not the current visitor is a logged in WordPress.com user.                                                                                          |
+| wordpress_test_cookie       | Checks if cookies are enabled to provide appropriate user experience.                                                                                                 |
+| wp-settings-{user_id}       | Persists a user’s wp-admin configuration.                                                                                                                             |
+| wp*sharing*{id}             | Tracks whether or not a user has already performed an action.                                                                                                         |
 
 #### **Analytics and Performance**
 
-|Cookie|Purpose|
-|--- |--- |
-|__pdvt|Used in log of Polldaddy survey data to aid in debugging customer problems|
-|_hjIncludedInSample
+| Cookie   | Purpose                                                                    |
+| -------- | -------------------------------------------------------------------------- |
+| \_\_pdvt | Used in log of Polldaddy survey data to aid in debugging customer problems |
+
+|\_hjIncludedInSample
 mp_6d7c50ad560e01715a871a117a2fbd90_mixpanel
 optimizelyBuckets
 optimizelyEndUserId
-__hstc
+\_\_hstc
 hubspotutk
 optimizelySegments|Gathers information that helps us understand how visitors interact with our websites, which allows us to create a better visitor experience.|
 |ab|Used for "AB testing" of new features.|
@@ -80,57 +82,57 @@ optimizelySegments|Gathers information that helps us understand how visitors int
 
 #### **Advertising**
 
-|Cookie|Purpose|
-|--- |--- |
-|ads|Tracks if a visitor has clicked an ad before.|
-|lr_nw|Counts and tracks pageviews on Longreads.com. Used to determine whether or not to show our Membership popup message.|
-|wordpress_eli|Reduces the display of ads for repeat visitors.|
+| Cookie        | Purpose                                                                                                              |
+| ------------- | -------------------------------------------------------------------------------------------------------------------- |
+| ads           | Tracks if a visitor has clicked an ad before.                                                                        |
+| lr_nw         | Counts and tracks pageviews on Longreads.com. Used to determine whether or not to show our Membership popup message. |
+| wordpress_eli | Reduces the display of ads for repeat visitors.                                                                      |
 
 Reduces the display of ads for repeat visitors.
 
 Please also see the section below on third party advertisements that you may see on our sites or sites that use our services.
 
-#### **Advertisements from Third Parties Through Automattic’s Ads Program** 
+#### **Advertisements from Third Parties Through Automattic’s Ads Program**
 
 Our mission is to democratize publishing. So that we can offer free access to create a website using WordPress.com, we show ads on some of our users’ sites. Our users may also choose to place ads on their site through our ads program. Additionally, we also show ads from our ads program on some of our own websites (e.g. longreads.com). We operate our ads program in partnership with third party vendors. As part of the operation of our ads program, we use cookies to collect certain information. Advertising cookies enable us and our partners to serve ads and to personalize those ads based on information like visits to our sites and other sites on the Internet. Below is a representative list of our advertising program partners, along with information on the cookies that that each partner sets. The partners we work with change from time to time, and this is not an exhaustive list. Your choices to control cookies related to our ads program are described below.
 
-|Partner|Cookie Info|
-|--- |--- |
-|33across|https://33across.com/privacy-policy/ and https://optout.33across.com|
-|AdMixer|https://admixer.net/privacy|
-|ADYOULIKE|https://www.adyoulike.com/privacy_policy.php|
-|Amazon|https://www.amazon.co.uk/gp/help/customer/display.html/ref=footer_iba?ie=UTF8&nodeId=201909150|
-|AppNexus|https://www.appnexus.com/en/company/cookie-policy|
-|BidSwitch|http://www.bidswitch.com/cookie-statement/|
-|Criteo|https://www.criteo.com/privacy/|
-|EMX Digital|https://enginemediaexchange.com/privacy/|
-|Google (AdSense, DoubleClick Ad Exchange “AdX”)|https://policies.google.com/technologies/ads|
-|Index Exchange|https://www.indexexchange.com/privacy/|
-|LKQD|https://www.lotame.com/about-lotame/privacy/|
-|Media.net|https://www.media.net/privacy-policy|
-|OATH|https://policies.oath.com/us/en/oath/privacy/topics/cookies/index.html|
-|Ogury|https://ogury.com/privacy-policy/|
-|OpenX|https://www.openx.com/legal/privacy-policy/|
-|Polymorph|https://getpolymorph.com/privacy-policy/|
-|PowerInBox|https://powerinbox.com/privacy-policy/|
-|Pubmatic|https://pubmatic.com/legal/website-cookie-policy/|
-|Rubicon|https://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/|
-|Skimlinks|https://skimlinks.com/user-cookies and https://skimlinks.com/privacy-policy|
-|Sonobi|https://sonobi.com/privacy-policy/|
-|Teads|https://www.teads.tv/privacy-policy/|
-|TripleLift|https://triplelift.com/privacy/|
+| Partner                                         | Cookie Info                                                                                    |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 33across                                        | https://33across.com/privacy-policy/ and https://optout.33across.com                           |
+| AdMixer                                         | https://admixer.net/privacy                                                                    |
+| ADYOULIKE                                       | https://www.adyoulike.com/privacy_policy.php                                                   |
+| Amazon                                          | https://www.amazon.co.uk/gp/help/customer/display.html/ref=footer_iba?ie=UTF8&nodeId=201909150 |
+| AppNexus                                        | https://www.appnexus.com/en/company/cookie-policy                                              |
+| BidSwitch                                       | http://www.bidswitch.com/cookie-statement/                                                     |
+| Criteo                                          | https://www.criteo.com/privacy/                                                                |
+| EMX Digital                                     | https://enginemediaexchange.com/privacy/                                                       |
+| Google (AdSense, DoubleClick Ad Exchange “AdX”) | https://policies.google.com/technologies/ads                                                   |
+| Index Exchange                                  | https://www.indexexchange.com/privacy/                                                         |
+| LKQD                                            | https://www.lotame.com/about-lotame/privacy/                                                   |
+| Media.net                                       | https://www.media.net/privacy-policy                                                           |
+| OATH                                            | https://policies.oath.com/us/en/oath/privacy/topics/cookies/index.html                         |
+| Ogury                                           | https://ogury.com/privacy-policy/                                                              |
+| OpenX                                           | https://www.openx.com/legal/privacy-policy/                                                    |
+| Polymorph                                       | https://getpolymorph.com/privacy-policy/                                                       |
+| PowerInBox                                      | https://powerinbox.com/privacy-policy/                                                         |
+| Pubmatic                                        | https://pubmatic.com/legal/website-cookie-policy/                                              |
+| Rubicon                                         | https://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/                        |
+| Skimlinks                                       | https://skimlinks.com/user-cookies and https://skimlinks.com/privacy-policy                    |
+| Sonobi                                          | https://sonobi.com/privacy-policy/                                                             |
+| Teads                                           | https://www.teads.tv/privacy-policy/                                                           |
+| TripleLift                                      | https://triplelift.com/privacy/                                                                |
 
 ### Visitors to Sites with Parse.ly installed
 
 Below are examples of the cookies set for visitors to sites with the Parse.ly plugin installed.
 
-|Cookie|Purpose|
-|--- |--- |
-|test|Used to discover cookie support.|
-|_parsely_visitor|JSON document uniquely identifying a browser and counting its sessions.|
-|_parsely_tpa_blocked|JSON document storing a flag indicating whether pixel.parsely.com is not accessible by the tracker.|
-|_parsely_slot_click|JSON document storing positional information about a clicked internal link.|
-|_parsely_session|JSON document storing information identifying a browsing session according to Parse.ly’s proprietary definition.|
+| Cookie                | Purpose                                                                                                          |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| test                  | Used to discover cookie support.                                                                                 |
+| \_parsely_visitor     | JSON document uniquely identifying a browser and counting its sessions.                                          |
+| \_parsely_tpa_blocked | JSON document storing a flag indicating whether pixel.parsely.com is not accessible by the tracker.              |
+| \_parsely_slot_click  | JSON document storing positional information about a clicked internal link.                                      |
+| \_parsely_session     | JSON document storing information identifying a browsing session according to Parse.ly’s proprietary definition. |
 
 ### Visitors to Sites with Jetpack installed
 
@@ -138,36 +140,36 @@ Below are examples of the cookies set for visitors to sites with the Jetpack plu
 
 #### **Jetpack Comments**
 
-|Cookie Name|Purpose|
-|--- |--- |
-|comment_author_{HASH}|Remembers the value entered into the comment form's name field. Specific to the site from which it is set. This cookie mirrors one set by the core WordPress software for commenting purposes.|
-|comment_author_email_{HASH}|Remembers the value entered into the comment form's email field. Specific to the site from which it is set. This cookie mirrors one set by the core WordPress software for commenting purposes.|
-|comment_author_url_{HASH}|Remembers the value entered into the comment form's URL field. Specific to the site from which it is set. This cookie mirrors one set by the core WordPress software for commenting purposes|
+| Cookie Name                 | Purpose                                                                                                                                                                                         |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| comment*author*{HASH}       | Remembers the value entered into the comment form's name field. Specific to the site from which it is set. This cookie mirrors one set by the core WordPress software for commenting purposes.  |
+| comment*author_email*{HASH} | Remembers the value entered into the comment form's email field. Specific to the site from which it is set. This cookie mirrors one set by the core WordPress software for commenting purposes. |
+| comment*author_url*{HASH}   | Remembers the value entered into the comment form's URL field. Specific to the site from which it is set. This cookie mirrors one set by the core WordPress software for commenting purposes    |
 
 #### **Mobile Theme**
 
-|Cookie Name|Purpose|
-|--- |--- |
-|akm_mobile|Remembers whether or not a user wishes to view the mobile version of a site.|
+| Cookie Name | Purpose                                                                      |
+| ----------- | ---------------------------------------------------------------------------- |
+| akm_mobile  | Remembers whether or not a user wishes to view the mobile version of a site. |
 
 #### **Subscriptions**
 
-|Cookie Name|Purpose|
-|--- |--- |
-|jetpack_comments_subscribe_{HASH}|Remembers the state of the post and comment subscription checkboxes.|
-|jetpack_blog_subscribe_{HASH}|Remembers the state of the post and comment subscription checkboxes.|
+| Cookie Name                       | Purpose                                                              |
+| --------------------------------- | -------------------------------------------------------------------- |
+| jetpack*comments_subscribe*{HASH} | Remembers the state of the post and comment subscription checkboxes. |
+| jetpack*blog_subscribe*{HASH}     | Remembers the state of the post and comment subscription checkboxes. |
 
 #### **EU Cookie Law Banner**
 
-|Cookie Name|Purpose|
-|--- |--- |
-|eucookielaw|Remembers the state of visitor acceptance to the EU Cookie Law banner.|
+| Cookie Name | Purpose                                                                |
+| ----------- | ---------------------------------------------------------------------- |
+| eucookielaw | Remembers the state of visitor acceptance to the EU Cookie Law banner. |
 
 Please note that this section is not intended to be exhaustive, but rather aims to be representative, and that our users may set additional cookies (such as Google Analytics), depending on the features they have chosen to enable or the plugins they have installed.
 
 ### Controlling Cookies
 
-Visitors may wish to restrict the use of cookies or completely prevent them from being set. Most browsers provide for ways to control cookie behavior such as the length of time they are stored – either through built-in functionality or by utilizing third party plugins. If you disable cookies, please be aware that some of the features of our service may not function correctly. To find out more on how to manage and delete cookies, visit aboutcookies.org. For more details on your choices regarding use of your web browsing activity for interest-based advertising visit [youronlinechoices.eu](http://youronlinechoices.eu) (EU based) or [optout.aboutads.info](http://optout.aboutads.info) (US based). 
+Visitors may wish to restrict the use of cookies or completely prevent them from being set. Most browsers provide for ways to control cookie behavior such as the length of time they are stored – either through built-in functionality or by utilizing third party plugins. If you disable cookies, please be aware that some of the features of our service may not function correctly. To find out more on how to manage and delete cookies, visit aboutcookies.org. For more details on your choices regarding use of your web browsing activity for interest-based advertising visit [youronlinechoices.eu](http://youronlinechoices.eu) (EU based) or [optout.aboutads.info](http://optout.aboutads.info) (US based).
 
 On a mobile device, you may also be able to adjust your settings to limit tracking.
 
@@ -195,7 +197,7 @@ In March 2021 we began rolling out a new CMP to some of our users as part of our
 
 _Other Choices:_
 
-We also set a cookie to help us understand how visitors engage with websites that participate in our ad program. Visitors may opt out of our use of this information by visiting [visiting this link](https://s.pubmine.com/opt-out) (the opt-out will be processed immediately with no confirmation step). When you opt out, we replace the unique value for that cookie with an opt-out value. The opt-out works across all websites in our ads program. If you have opted out by accident  or wish to opt back in, you may do so by [visiting this link](https://s.pubmine.com/opt-in). Please note that this option is browser-specific, so if you use a different device or browser or clear your cookies, then you will need to repeat the process.
+We also set a cookie to help us understand how visitors engage with websites that participate in our ad program. Visitors may opt out of our use of this information by visiting [visiting this link](https://s.pubmine.com/opt-out) (the opt-out will be processed immediately with no confirmation step). When you opt out, we replace the unique value for that cookie with an opt-out value. The opt-out works across all websites in our ads program. If you have opted out by accident or wish to opt back in, you may do so by [visiting this link](https://s.pubmine.com/opt-in). Please note that this option is browser-specific, so if you use a different device or browser or clear your cookies, then you will need to repeat the process.
 
 ### Contact Us
 

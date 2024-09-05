@@ -105,7 +105,7 @@ footer > div {
 
 a {
   color: var(--color-fg-accent);
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:hover {
@@ -272,6 +272,20 @@ footer {
   margin-top: var(--space-xl);
 }
 
+h3:target {
+  position: relative;
+  background: var(--color-bg-lc);
+}
+
+h3:target::before {
+  content: "|";
+  font-family: icons;
+  position: absolute;
+  top: -2px;
+  left: -0.5rem;
+  color: var(--color-fg-accent);
+}
+
 @media (max-width: 45rem) {
   .mobile {
     display: initial;
@@ -279,6 +293,10 @@ footer {
 
   .desktop {
     display: none;
+  }
+
+  body {
+    font-size: var(--font-s);
   }
 
   header .box {
