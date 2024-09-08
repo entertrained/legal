@@ -7,3 +7,14 @@ document
   .forEach((el) => {
     el.classList.add("active")
   })
+
+document.addEventListener("scroll", () => {
+  document.querySelector("footer").style.opacity = 1
+})
+
+document.querySelectorAll("h3").forEach((el) =>
+  el.addEventListener("click", () => {
+    console.log(el.id)
+    location.hash = el.id
+  }),
+)

@@ -270,20 +270,33 @@ footer {
   background: var(--color-bg-lc);
   padding: var(--space-l);
   margin-top: var(--space-xl);
+  opacity: 0;
+}
+
+h3 {
+  position: relative;
+  cursor: pointer;
 }
 
 h3:target {
-  position: relative;
   background: var(--color-bg-lc);
 }
 
 h3:target::before {
   content: "|";
-  font-family: icons;
   position: absolute;
   top: -2px;
-  left: -0.5rem;
+  left: -0.6rem;
   color: var(--color-fg-accent);
+}
+
+h3:hover::after {
+  content: "\f101";
+  font-family: icons;
+  font-size: var(--font-l);
+  position: absolute;
+  top: 2px;
+  margin-left: 0.5rem;
 }
 
 @media (max-width: 45rem) {

@@ -1,5 +1,6 @@
 export type IconsId =
   | "logo"
+  | "link"
   | "link-external"
   | "light-mode"
   | "home"
@@ -8,6 +9,7 @@ export type IconsId =
 
 export type IconsKey =
   | "Logo"
+  | "Link"
   | "LinkExternal"
   | "LightMode"
   | "Home"
@@ -16,6 +18,7 @@ export type IconsKey =
 
 export enum Icons {
   Logo = "logo",
+  Link = "link",
   LinkExternal = "link-external",
   LightMode = "light-mode",
   Home = "home",
@@ -25,6 +28,7 @@ export enum Icons {
 
 export const ICONS_CODEPOINTS: { [key in Icons]: string } = {
   [Icons.Logo]: "61724",
+  [Icons.Link]: "61697",
   [Icons.LinkExternal]: "10150",
   [Icons.LightMode]: "61725",
   [Icons.Home]: "61729",
