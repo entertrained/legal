@@ -105,7 +105,7 @@ footer > div {
 
 a {
   color: var(--color-fg-accent);
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
@@ -169,6 +169,12 @@ h1 i:before {
   color: var(--color-fg-lc);
   position: relative;
   top: -2px;
+}
+
+h1 > a,
+h1 > a:hover {
+  text-decoration: none;
+  color: inherit;
 }
 
 h2 {
@@ -273,16 +279,19 @@ footer {
   opacity: 0;
 }
 
-h3 {
+h3,
+h4 {
   position: relative;
   cursor: pointer;
 }
 
-h3:target {
+h3:target,
+h4:target {
   background: var(--color-bg-lc);
 }
 
-h3:target::before {
+h3:target::before,
+h4:target::before {
   content: "|";
   position: absolute;
   top: -2px;
@@ -290,7 +299,8 @@ h3:target::before {
   color: var(--color-fg-accent);
 }
 
-h3:hover::after {
+h3:hover::after,
+h4:hover::after {
   content: "\f101";
   font-family: icons;
   font-size: var(--font-l);

@@ -178,7 +178,7 @@ In some US states you have additional rights subject to any exemptions provided 
 - Receive a copy of your information in a readily portable format; and
 - Not receive discriminatory treatment for exercising your rights.
 
-**_Right to Opt Out_**
+#### **_Right to Opt Out_**
 
 We never directly sell your personal information in the conventional sense (i.e., for money).
 

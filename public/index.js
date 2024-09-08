@@ -18,3 +18,10 @@ document.querySelectorAll("h3").forEach((el) =>
     location.hash = el.id
   }),
 )
+
+document.querySelectorAll("h4").forEach((el) =>
+  el.addEventListener("click", () => {
+    console.log(el.id)
+    location.hash = el.id
+  }),
+)
