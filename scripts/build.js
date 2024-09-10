@@ -5,6 +5,13 @@ import { gfmHeadingId } from "marked-gfm-heading-id"
 
 marked.use(gfmHeadingId())
 
+const titles = {
+  index: "Legal",
+  tos: "Terms of Service",
+  privacy: "Privacy Policy",
+  cookies: "Cookies Policy",
+}
+
 const template = fs.readFileSync(path.join("src", "templates", "main.html"), {
   encoding: "utf8",
 })
@@ -20,7 +27,11 @@ async function main() {
     const content = fs.readFileSync(filePath, { encoding: "utf8" })
     const html = await marked.parse(content)
 
-    const withTemplate = template.replace("{{CONTENT}}", html)
+    const pageTitle = titles[name] ?? name[0].toUpperCase() + name.slice(1)
+
+    const withTemplate = template
+      .replace("{{TITLE}}", pageTitle)
+      .replace("{{CONTENT}}", html)
 
     const outDir = name === "index" ? "public" : path.join("public", name)
     fs.mkdirSync(outDir, { recursive: true })
