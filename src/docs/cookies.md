@@ -2,6 +2,12 @@
 
 Our [Privacy Policy](/privacy/) explains our principles when it comes to the collection, processing, and storage of your information. This policy specifically explains how we and our partners deploy cookies and other similar items, as well as the options you have to control them.
 
+### Creative Commons Sharealike License
+
+We've decided to make this Cookies Policy available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license. You're more than welcome to copy it, adapt it, and repurpose it for your own use. Just make sure to revise the language so that your policy reflects your actual practices. If you do use it, we'd appreciate a credit and link to Entertrained somewhere on your site.
+
+The text of the policy is based on the work of folks at [Automattic](https://automattic.com/), shared under the same license. You can grab a copy of the original text from their [Github repository](https://github.com/Automattic/legalmattic/blob/master/Cookie-Policy.md).
+
 ### Definitions
 
 #### Cookies
