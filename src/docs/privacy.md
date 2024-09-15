@@ -18,7 +18,7 @@ This Privacy Policy applies to information that we collect about you when you us
 
 ### Creative Commons Sharealike License
 
-We've decided to make this Privacy Policy available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license. You're more than welcome to copy it, adapt it, and repurpose it for your own use. Just make sure to revise the language so that your policy reflects your actual practices. If you do use it, we'd appreciate a credit and link to Entertrained somewhere on your site.
+We've decided to make this Privacy Policy available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license. You're more than welcome to copy it, adapt it, and repurpose it for your own use. Just make sure to revise the language so that your policy reflects your actual practices. If you do use it, we'd appreciate a credit and link to Entertrained.app somewhere on your site.
 
 The text of the policy is based on the work of folks at [Automattic](https://automattic.com/), shared under the same license. You can grab a copy of the original text from their [Github repository](https://github.com/Automattic/legalmattic/blob/master/Privacy-Policy.md).
 
