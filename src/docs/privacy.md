@@ -36,7 +36,7 @@ It's probably no surprise that we collect information that you provide to us dir
 - **Public profile information:** If you have an account with us, we collect the information that you provide for your public profile. For example, if you have a Entertrained.app account, your username is part of that public profile, along with any other information you put into your public profile, like a photo or an "About Me" description. Your public profile information is just that — public — so please keep that in mind when deciding what information you would like to include.
 - **Payment and contact information:** If you buy something from us — a subscription to a Entertrained.app plan or other premium features, you'll provide additional personal and payment information like your name, credit card information, and contact information. We also keep a record of the purchases you've made. You may also provide us with financial details to set up a payments integration, like the email address for your Stripe or PayPal account or your bank account information.
 - **Content information:** We collect information about the books and other texts that you use, including any custom uploaded texts. This helps us provide better suggestions for further typing or reading, enhancing your experience on our platform.
-- **Communications with us (hi there!): **You may also provide us with information when you respond to surveys, communicate with our Customer Service about a support question, post a question in our public forums, or sign up for a newsletter. When you communicate with us via form, email, Entertrained.app comment, or otherwise, we store a copy of our communications.
+- **Communications with us:** You may also provide us with information when you respond to surveys, communicate with our Customer Service about a support question, post a question in our public forums, or sign up for a newsletter. When you communicate with us via form, email, Entertrained.app comment, or otherwise, we store a copy of our communications.
 
 #### _Information We Collect Automatically_
 
@@ -53,7 +53,7 @@ We also collect some information automatically:
 We may also get information about you from other sources. For example:
 
 - **Third Party Login:** If you create or log in to your Entertrained.app account through another service (like Google) we'll receive associated login information (e.g. a connection token, your username, your email address)
-- **Financial Account Info\*\***: \*\*If you use our premium account, we'll receive your payment information from Stripe.
+- **Financial Account Info**: If you use our premium account, we'll receive your payment information from Stripe.
 
 The information we receive depends on which services you use or authorize and what options are available.
 
@@ -212,7 +212,7 @@ In some circumstances we may deny your request to exercise one of these rights. 
 
 In the event that we deny your request, we will communicate this fact to you in writing. You may appeal our decision by responding in writing to our denial email and stating that you would like to appeal. In the event that your appeal is also denied this information will be communicated to you in writing.
 
-If your appeal is denied, in some US states you may refer the denied appeal to the state attorney general if you believe the denial is in conflict with your legal rights. The process for how to do this will be communicated to you in writing at the same time we send you our decision about your 
+If your appeal is denied, in some US states you may refer the denied appeal to the state attorney general if you believe the denial is in conflict with your legal rights. The process for how to do this will be communicated to you in writing at the same time we send you our decision about your
 
 ### How to Reach Us
 
