@@ -212,11 +212,7 @@ In some circumstances we may deny your request to exercise one of these rights. 
 
 In the event that we deny your request, we will communicate this fact to you in writing. You may appeal our decision by responding in writing to our denial email and stating that you would like to appeal. In the event that your appeal is also denied this information will be communicated to you in writing.
 
-If your appeal is denied, in some US states you may refer the denied appeal to the state attorney general if you believe the denial is in conflict with your legal rights. The process for how to do this will be communicated to you in writing at the same time we send you our decision about your appeal.
-
-### Responsible Company
-
-Entertrained offers its services worldwide and is operated by Appstrakcja Maciej Caderek, registered in Poland at ul. Jasna 10/202, 00-013 Warsaw. Address for correspondence: Grudzkowola 41, 05-600 Grojec, Poland.
+If your appeal is denied, in some US states you may refer the denied appeal to the state attorney general if you believe the denial is in conflict with your legal rights. The process for how to do this will be communicated to you in writing at the same time we send you our decision about your 
 
 ### How to Reach Us
 
