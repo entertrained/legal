@@ -54,11 +54,11 @@ This storage is essential for our websites and services to perform basic functio
 
 #### Analytics and performance
 
-This storage allows us to optimize performance by collecting information on how users interact with our websites, including which pages are visited most, as well as other analytical data. We use these details to improve how our websites function and to understand how users interact with them.
+This storage allows us to optimize performance by collecting information on how users interact with our websites, including which pages are visited most, as well as other analytical data. We use these details to improve how our websites function and to understand how users interact with them. We may use some of the cookies for this purpose.
 
 #### Advertising
 
-This storage is set by us and our advertising partners to provide you with relevant content and to understand that content’s effectiveness. It may be used to collect information about your online activities over time and across different websites to predict your preferences and to display more relevant advertisements to you. This also allows a profile to be built about you and your interests and enables personalized ads to be shown to you based on your profile. We use some of the cookies for this purpose.
+This storage is set by us and our advertising partners to provide you with relevant content and to understand that content’s effectiveness. It may be used to collect information about your online activities over time and across different websites to predict your preferences and to display more relevant advertisements to you. This also allows a profile to be built about you and your interests and enables personalized ads to be shown to you based on your profile. We may use some of the cookies for this purpose.
 
 ### Examples
 
