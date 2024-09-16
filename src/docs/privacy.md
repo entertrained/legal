@@ -1,5 +1,7 @@
 ## Privacy Policy
 
+_Last Updated: September 16, 2024_
+
 Your privacy is critically important to us. At Entertrained, we have a few fundamental principles:
 
 - We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.

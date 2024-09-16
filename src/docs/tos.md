@@ -1,6 +1,6 @@
 ## Terms of Service
 
-_Last Updated: September 14, 2024_
+_Last Updated: September 16, 2024_
 
 ### The Gist
 
