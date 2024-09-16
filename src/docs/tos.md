@@ -66,7 +66,7 @@ By using a Paid Service, you agree to pay the specified fees. Depending on the P
 
 **Payment.** You must provide accurate and up-to-date payment information. By providing your payment information, you authorize us to store it until you request deletion. If your payment fails, we suspect fraud, or Paid Services are otherwise not paid for or paid for on time (for example, if you contact your bank or credit card company to decline or reverse the charge of fees for Paid Services), we may immediately cancel or revoke your access to Paid Services without notice to you. You authorize us to charge any updated payment information provided by your bank or payment service provider (e.g., new expiration date) or other payment methods provided if we can’t charge your primary payment method.
 
-**Automatic Renewal. **By enrolling in a subscription, you authorize us to automatically charge the then-applicable fees and Taxes for each subsequent subscription period until the subscription is canceled. If you received a discount, used a coupon code, or subscribed during a free trial or promotion, your subscription will automatically renew for the full price of the subscription at the end of the discount period. This means that unless you cancel a subscription, it’ll automatically renew and we’ll charge your payment method(s). You must cancel at least one month before the scheduled end date of any annual subscription and at least 24 hours before the end of any shorter subscription period. The date for the automatic renewal is based on the date of the original purchase and cannot be changed. If you’ve purchased access to multiple services, you may have multiple renewal dates.
+**Automatic Renewal.** By enrolling in a subscription, you authorize us to automatically charge the then-applicable fees and Taxes for each subsequent subscription period until the subscription is canceled. If you received a discount, used a coupon code, or subscribed during a free trial or promotion, your subscription will automatically renew for the full price of the subscription at the end of the discount period. This means that unless you cancel a subscription, it’ll automatically renew and we’ll charge your payment method(s). You must cancel at least one month before the scheduled end date of any annual subscription and at least 24 hours before the end of any shorter subscription period. The date for the automatic renewal is based on the date of the original purchase and cannot be changed. If you’ve purchased access to multiple services, you may have multiple renewal dates.
 
 You can view your renewal date(s), cancel, or manage subscriptions in your [Profile](https://entertrained.app/profile) or by contacting the support team.
 
@@ -108,27 +108,23 @@ Our mission is to make learning touch typing enjoyable and effective. Our Servic
 
 #### a. Entertrained.app Websites and Accounts
 
-[Entertrained.app](https://entertrained.app/) offers a unique platform for practicing touch typing through engaging literary content and various typing exercises. We would love for you to use it to improve your typing skills. An Entertrained.app account may also allow you to sign into some of our other services.
-
-<!--done-->
+[Entertrained.app](https://entertrained.app/) offers a unique platform for practicing touch typing through engaging literary works and various typing exercises. We would love for you to use it to improve your typing skills. An Entertrained.app account may also allow you to sign into some of our other services.
 
 Entertrained.app’s basic service is free, and we offer [paid plans](https://entertrained.app/pricing/) that add advanced features like a access to the full library of books, upload of custom texts, detailed statistics, extra storage, and access to premium themes.
 
-<!--We don’t own your content, and you retain all ownership rights you have in the content you post to our website. However, be responsible in what you publish. In particular, make sure that nothing prohibited (like spam, viruses, or serious threats of violence) appears on your website.-->
+**Fair Play.** To ensure the legitimacy of your results and the accuracy of our leaderboards, it is important that you do not use any automated typing aids, such as user scripts, desktop automation software, or programmable keyboards that can input pre-programmed sequences of characters. Additionally, sharing your account with others is prohibited. These practices undermine the integrity of our service and the experience of all users. Accurate rankings are crucial for providing fair competition and ensuring that your performance truly reflects your skill level. This, in turn, allows us to offer personalized improvement plans and exercises tailored to your needs, and helps us gather data to research the most effective practice methods based on genuine user performance.
 
-<!--**License.** By uploading or sharing Content, you grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, and publish the Content solely for the purpose of providing and improving our products and Services and promoting your website. This license also allows us to make any publicly-posted Content available to select third parties (through [Firehose](https://developer.wordpress.com/docs/firehose/), for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services. You also give other Entertrained.app users permission to share your Content on other Entertrained.app websites and add their own Content to it (aka to “reblog” your Content), so long as they use only a portion of your post and they give you credit as the original author by linking back to your website, which the [reblogging](https://en.support.wordpress.com/reblogs/) function on Entertrained.app does automatically.-->
+**User Content Ownership and Licensing**. We don’t own your content, and you retain all ownership rights you have in the content you share on your profile, in comments, or in forums on our platform. However, please be responsible in what you share. In particular, ensure that nothing prohibited (such as spam, viruses, or serious threats of violence) appears in your posts. By posting comments or participating in forums, you grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, and adapt your content solely for the purpose of providing and improving our services.
 
-**Removing Content.** If you delete Content, we’ll use reasonable efforts to remove it from public view (or in the case of a private website, from view by the authorized visitors) on Entertrained.app, but you acknowledge that cached versions of the Content or references to the Content may not be immediately unavailable.
+**Removing Content.** If you delete Content, we’ll use reasonable efforts to remove it from public view on Entertrained.app, but you acknowledge that cached versions of the Content or references to the Content may not be immediately unavailable.
+
+**Prohibited Uses.** Your Content and conduct must not include uploading or using any text, including books, that you do not have the rights, license, or permission to use. This includes pirated or unauthorized content. While your content will remain local to your browser and will not be uploaded to our servers, we still require adherence to these guidelines to prevent any potential legal issues and to ensure that pirated content does not appear in screenshots or other representations of the app.
+
+**Attribution.** We may display logos or URLs on the sharable screenshots of your results, indicating that your results are powered by Entertrained.app. These marks are important for maintaining the integrity and recognition of our service. Therefore, you should not modify these screenshots to remove or alter these logos or URLs.
+
+**Advertisements.** We may display advertisements on our Services, unless you have purchased a plan that includes the removal of ads.
 
 **Web Traffic.** We may use a third-party service to measure Entertrained.app’s audience and usage.
-
-**Prohibited Uses.** Your Content and conduct must not violate the [Entertrained.app User Guidelines,](https://en.support.wordpress.com/user-guidelines/) or the [VideoPress Service Guidelines](https://videopress.com/service-guidelines) if you use our Services to upload videos. These guidelines provide information on a few categories of content and behavior that we don’t permit because we consider them harmful to the community.
-
-**Advertisements.** We may display advertisements on your website and domain unless you have purchased a plan that includes the removal of ads.
-
-**Attribution.** We may display attribution text or links in your website footer or toolbar, noting that your website is powered by Entertrained.app or attributing the creator of your theme, for example. For more details about these attributions, and under which circumstances (if any) you may alter or remove them, please see our [Footer Credit Options support page](https://wordpress.com/support/footer-credits/).
-
-<!--done below-->
 
 #### b. Artificial Intelligence
 
@@ -138,17 +134,15 @@ As between you and Entertrained, and to the extent permitted by law, you own or 
 
 You’re responsible for your Input, the use of any Output, and for complying with any applicable laws. AI may occasionally generate Output that’s inaccurate, irrelevant, offensive, harmful, or similar to others’ content.
 
-<!--Please see our [AI Guidelines](https://entertrained.app/ai-guidelines) for the policies you must comply with when you use AI features, details about the third-party providers we use to provide AI features, and helpful information about AI generally.-->
-
 ### 9\. Copyright Policy
 
 As we ask others to respect our intellectual property rights, we respect the intellectual property rights of others. If you believe any Content violates your copyright, please contact us at [contact@entertrained.app](mailto:contact@entertrained.app).
 
 ### 10\. Intellectual Property
 
-The Agreement doesn’t transfer any Entertrained or third-party intellectual property to you, and all right, title, and interest in and to such property remains (as between Entertrained and you) solely with Entertrained. Entertrained, and all other trademarks, service marks, graphics, and logos used in connection with our websites or Services are trademarks or registered trademarks of Entertrained (or Entertrained’s licensors). Other trademarks, service marks, graphics, and logos used in connection with our Services may be the trademarks of other third parties. Using our Services doesn’t grant you any right or license to reproduce or otherwise use any Entertrained or third-party trademarks.
-
 The Agreement doesn’t transfer any Entertrained or third-party intellectual property to you, and all right, title, and interest in and to such property remains (as between Entertrained and you) solely with Entertrained. Entertrained, and all other trademarks, service marks, graphics, and logos used in connection with our websites or Services are trademarks or registered trademarks of Entertrained (or Entertrained’s licensors). Other trademarks, service marks, graphics, and logos used in connection with our Services may be the trademarks of other third parties. Using our Services doesn’t grant you any right or license to reproduce or otherwise use any Entertrained or third-party trademarks, except for our [Media Pack](https://entertrained.app/media-pack) for creators, which includes a separate license.
+
+Additionally, texts such as books provided by third parties, including but not limited to [Standard Ebooks](https://standardebooks.org/), are subject to separate licenses, which are specified on the details page of each book or other texts. These licenses govern the use of such third-party content and must be adhered to accordingly.
 
 ### 11\. Third-Party Services
 
