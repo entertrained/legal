@@ -120,6 +120,15 @@ a[href^="http"]:after {
   top: 2px;
 }
 
+a.active {
+  color: var(--color-fg-hc);
+}
+
+a.active:hover {
+  text-decoration: none;
+  cursor: default;
+}
+
 details > summary {
   cursor: pointer;
 }

@@ -54,6 +54,8 @@ The following paragraphs explain the types of storage we use on our websites and
 
 This storage is essential for our websites and services to perform basic functions and is necessary for us to operate certain features. This includes storage required to allow registered users to authenticate and perform account-related functions, store preferences set by users such as account name, language, progress and statistics, and ensure our services are operating properly. We use localStorage and IndexedDB for this purpose.
 
+To enhance your experience, we also use IndexedDB to cache certain content. This helps us deliver a faster and more efficient website by reducing the need to fetch data from our servers repeatedly. The cached data is non-personal and is used solely to improve website performance. You can manage and clear this cached data through your browser settings or our website's [Settings](https://entertrained.app/settings/#manage-data) page.
+
 #### Analytics and performance
 
 This storage allows us to optimize performance by collecting information on how users interact with our websites, including which pages are visited most, as well as other analytical data. We use these details to improve how our websites function and to understand how users interact with them. We may use some of the cookies for this purpose.
@@ -94,13 +96,15 @@ Some analytics services we use, which place their own cookies or web tags on you
 <!---->
 <!-- In order to better understand how our services are used, we monitor certain user activities that take place within our products, including page views and clicks on any links used when managing a site via our dashboards. We call each one of these actions an “event.” Analytics events are attached to your WordPress.com account and are handled via a first party system that Entertrained owns and maintains. In general, we record the following data for each event: IP address, WordPress.com user ID and username, WordPress.com-connected site ID (for sites not hosted on WordPress.com), user agent, referring URL, timestamp of event, browser language, and country code. We use this information to improve our products, make our marketing to you more relevant, personalize your experience, and for the other purposes described in our [Privacy Policy](/privacy/). You may opt out of our analytics program through your user settings. By doing so, you won’t share information with our analytics tool about events or actions that happen after the opt-out, while logged in to your WordPress.com account. Note that opting out does not disable the functionality of the actions we track - for example, if you publish a post, we will still have record of that (don’t worry!), but for an event or action after you opt out, we will not have other data associated with that action or event in the analytics tool. -->
 
-### Consent for Advertising Cookies on Our Sites
+### Consent for Non-essential Cookies on Our Sites
 
 You may see a “cookie banner” on our website. If you are visiting our website from the EU, then we do not set, or allow our ad partners to set, cookies that are used to show you targeted ads before you click to accept. When you consent in this manner, we and our advertising partners may set advertising cookies on the site you are visiting, which we can use to show you advertisements about various products.
 
-<!--We’ll display the banner to you periodically, just in case you change your mind.-->
+The same is true for performance and analytics cookies for EU users. These cookies will only be set after you provide your consent. They are used by us and our partners to monitor and analyze website performance and user behavior.
 
-You can revise your choices at any moment on your [Profile page](https://entertrained.app/profile).
+We’ll display the banner to you periodically, just in case you change your mind.
+
+You can revise your choices at any moment in [Settings](https://entertrained.app/settings/#manage-data).
 
 ### Contact Us
 

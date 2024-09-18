@@ -12,7 +12,7 @@ If you are a user in countries located in the European Economic Area, Switzerlan
 
 We’ve made these Terms available under a [Creative Commons Sharealike license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you’re more than welcome to copy them, adapt them, and repurpose them for your own use. Just make sure to revise them so that your Terms of Service reflect your actual practices. Also, if you do use these Terms, we’d appreciate a credit and link to Entertrained.app somewhere on your website. You can grab a copy of these Terms and other legal documents on [GitHub](https://github.com/Automattic/legalmattic).
 
-The text of the terms is based on the work of folks at [Automattic](https://automattic.com/), shared under the same license. You can grab a copy of the original text from their [Github repository](https://github.com/Automattic/legalmattic/blob/master/Terms%20of%20Service/WordPress.com/EN-Terms-of-Service.md).
+The text of the Terms is based on the work of folks at [Automattic](https://automattic.com/), shared under the same license. You can grab a copy of the original text from their [Github repository](https://github.com/Automattic/legalmattic/blob/master/Terms%20of%20Service/WordPress.com/EN-Terms-of-Service.md).
 
 ### Terms of Service
 
