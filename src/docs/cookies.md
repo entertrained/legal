@@ -1,6 +1,6 @@
 ## Cookies Policy
 
-_Last Updated: September 16, 2024_
+_Last Updated: October 31, 2024_
 
 Our [Privacy Policy](/privacy/) explains our principles when it comes to the collection, processing, and storage of your information. This policy specifically explains how we and our partners deploy cookies and other similar items, as well as the options you have to control them.
 
