@@ -70,8 +70,9 @@ Below are examples of the storage entries set by Entertrained, with explanations
 
 #### **Required**
 
-- `main` (IndexedDB database) - used to store preferences, statistics and progress for anonymous users,
-- `{username}-main` (IndexedDB database) - used to store preferences, statistics and progress for logged in user,
+- `anonymous` (IndexedDB database) - used to store preferences, statistics and progress for anonymous users,
+- `{username-id}` (IndexedDB database) - used to store preferences, statistics and progress for logged in user,
+- `cache` (IndexedDB database) - used to temporarily store content like books' info and chapters' content for quick access,
 - `sb-qamwpfhpiibjioqqyges-auth-token` (localStorage entry) - used to store access token and user session information.
 
 #### **Analytics and Performance**
